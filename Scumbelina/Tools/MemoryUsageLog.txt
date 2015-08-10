@@ -1,0 +1,25 @@
+Binary sketch size: 31,336 bytes (used 97% of a 32,256 byte maximum) (2.19 secs)
+Minimum Memory Usage: 1712 bytes (84% of a 2048 byte maximum)
+Binary sketch size: 31,430 bytes (used 97% of a 32,256 byte maximum) (2.22 secs)
+Minimum Memory Usage: 1766 bytes (86% of a 2048 byte maximum)
+Binary sketch size: 30,310 bytes (used 94% of a 32,256 byte maximum) (3.34 secs)
+Minimum Memory Usage: 1766 bytes (86% of a 2048 byte maximum)
+
+-- Custom font.
+Binary sketch size: 30,684 bytes (used 95% of a 32,256 byte maximum) (2.30 secs)
+Minimum Memory Usage: 1782 bytes (87% of a 2048 byte maximum)
+-- Full font
+Binary sketch size: 31,630 bytes (used 98% of a 32,256 byte maximum) (2.17 secs)
+Minimum Memory Usage: 1782 bytes (87% of a 2048 byte maximum)
+
+-- EEPROM_STRINGS
+Compiling 'Scumbelina' for 'Arduino Uno'
+Binary sketch size: 30,590 bytes (used 95% of a 32,256 byte maximum) (2.14 secs)
+Minimum Memory Usage: 1728 bytes (84% of a 2048 byte maximum)
+-- memory strings
+Binary sketch size: 30,684 bytes (used 95% of a 32,256 byte maximum) (2.48 secs)
+Minimum Memory Usage: 1782 bytes (87% of a 2048 byte maximum)
+
+-- EEPROM_FONTS 
+Binary sketch size: 29,504 bytes (used 91% of a 32,256 byte maximum) (2.16 secs)
+Minimum Memory Usage: 1784 bytes (87% of a 2048 byte maximum)

@@ -1,0 +1,12 @@
+#include "Configuration.h"
+#include "AlarmLog.h"
+#include <Wire.h>
+#include <SPI.h>
+#include <SoftwareSerial.h>
+#include <DS3232RTC.h>
+#include <Time.h>
+#include <Button.h>
+#include <FTOLED.h>
+#include <SdFat.h>
+#include <CmdMessenger.h>
+#include "Scumbelina.h"
